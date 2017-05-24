@@ -1,8 +1,0 @@
-C:\GesperLib\GesperLib\bin\Debug\GesperLib.dll
-C:\GesperLib\GesperLib\bin\Debug\GesperLib.pdb
-C:\GesperLib\GesperLib\obj\Debug\GesperLib.dll
-C:\GesperLib\GesperLib\obj\Debug\GesperLib.pdb
-C:\TpSLAM\tpGesper\GesperLib\GesperLib\bin\Debug\GesperLib.dll
-C:\TpSLAM\tpGesper\GesperLib\GesperLib\bin\Debug\GesperLib.pdb
-C:\TpSLAM\tpGesper\GesperLib\GesperLib\obj\Debug\GesperLib.dll
-C:\TpSLAM\tpGesper\GesperLib\GesperLib\obj\Debug\GesperLib.pdb
